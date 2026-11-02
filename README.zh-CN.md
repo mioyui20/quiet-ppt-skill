@@ -95,4 +95,4 @@ python -m unittest discover -s tests -v
 
 本项目重新编写了指令、辅助代码及样例布局。研究过 [Anthropic PPTX Skill](https://github.com/anthropics/skills/tree/main/skills/pptx)、[frontend-slides](https://github.com/zarazhangrui/frontend-slides) 与 Microsoft Morph 文档，没有复制这些项目的实现或模板。详见[第三方说明](THIRD_PARTY.md)。
 
-原创指令、代码和布局使用 [MIT 许可](LICENSE)。样例中嵌入的第三方照片保留原有许可，不包含在 MIT 授权中。用户提供的 B 站录屏不随项目分发。
+原创指令、代码和布局使用 [MIT 许可](LICENSE)。样例中嵌入的第三方照片保留原有许可，不包含在 MIT 授权中。
