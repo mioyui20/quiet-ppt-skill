@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quiet PPT / 克制高级 PPT"
+  short_description: "Content-matched editable decks / 按内容选风格，附逐页讲稿"
+  default_prompt: "Use $quiet-ppt to choose a style for my content and audience, then create an editable presentation with useful explanations, speaker notes and restrained motion."
