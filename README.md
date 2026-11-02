@@ -31,7 +31,7 @@ These GIFs are sampled from videos exported by desktop PowerPoint, not browser r
 - **Separate style, layout and motion.** Keep one coherent style per normal deck, vary layouts with the evidence, and choose transitions independently.
 - **Keep evidence editable.** Use native text, charts, tables and diagrams. Render every slide and distinguish file checks from actual playback checks.
 
-This is a workflow skill with a small PPTX transition helper. Its contribution is a specific combination of defaults and decision rules, not a new rendering engine or a claim of benchmark superiority. See the [comparison with reviewed skills](docs/DIFFERENCES.md).
+This is a workflow skill with a small PPTX transition helper. Its contribution is a specific combination of defaults and decision rules, not a new rendering engine or a claim of benchmark superiority.
 
 ## Six starting directions
 
@@ -94,6 +94,6 @@ python -m unittest discover -s tests -v
 
 ## Sources and license
 
-The instructions and helper were written for this project. Reviewed references include [Anthropic's PPTX skill](https://github.com/anthropics/skills/tree/main/skills/pptx), [frontend-slides](https://github.com/zarazhangrui/frontend-slides) and Microsoft's Morph documentation; no implementation or template was copied from those projects. See [differences](docs/DIFFERENCES.md) and [third-party notices](THIRD_PARTY.md).
+The instructions and helper were written for this project. Reviewed references include [Anthropic's PPTX skill](https://github.com/anthropics/skills/tree/main/skills/pptx), [frontend-slides](https://github.com/zarazhangrui/frontend-slides) and Microsoft's Morph documentation; no implementation or template was copied from those projects. See [third-party notices](THIRD_PARTY.md).
 
 Original instructions, code and presentation layouts are [MIT licensed](LICENSE). Embedded third-party photographs retain their original licenses and are excluded from that grant. The supplied Bilibili recording is not redistributed.

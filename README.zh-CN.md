@@ -31,7 +31,7 @@
 - **风格与动效分开选择**：一套普通成品保持统一主风格，按证据变化布局，仅在有意义时使用运动。
 - **证据保持可编辑**：使用原生文字、图表、表格与关系图，逐页检查，并区分文件验证和实际播放验证。
 
-项目的独立价值在于这套默认决策与工作流的组合，不宣称发明了新的渲染技术，也没有用基准测试证明优于其他项目。[查看与参考 Skill 的区别](docs/DIFFERENCES.md)。
+项目的独立价值在于这套默认决策与工作流的组合，不宣称发明了新的渲染技术，也没有用基准测试证明优于其他项目。
 
 ## 六类可扩展方向
 
@@ -93,6 +93,6 @@ python -m unittest discover -s tests -v
 
 ## 参考与许可
 
-本项目重新编写了指令、辅助代码及样例布局。研究过 [Anthropic PPTX Skill](https://github.com/anthropics/skills/tree/main/skills/pptx)、[frontend-slides](https://github.com/zarazhangrui/frontend-slides) 与 Microsoft Morph 文档，没有复制这些项目的实现或模板。详见[差异说明](docs/DIFFERENCES.md)与[第三方说明](THIRD_PARTY.md)。
+本项目重新编写了指令、辅助代码及样例布局。研究过 [Anthropic PPTX Skill](https://github.com/anthropics/skills/tree/main/skills/pptx)、[frontend-slides](https://github.com/zarazhangrui/frontend-slides) 与 Microsoft Morph 文档，没有复制这些项目的实现或模板。详见[第三方说明](THIRD_PARTY.md)。
 
 原创指令、代码和布局使用 [MIT 许可](LICENSE)。样例中嵌入的第三方照片保留原有许可，不包含在 MIT 授权中。用户提供的 B 站录屏不随项目分发。
